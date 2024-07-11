@@ -1,3 +1,10 @@
+// TODO:
+// Finish Embed implement
+// Queue New Sessions
+// Date/Time parsing from strings
+
+
+
 import 'package:dotenv/dotenv.dart';
 import 'package:nyxx_commands/nyxx_commands.dart';
 import 'package:nyxx/nyxx.dart';
